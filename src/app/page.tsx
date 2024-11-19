@@ -10,7 +10,7 @@ const Page = () => {
     <div className="container mx-auto max-w-lg px-2">
       <UserProvider>
         <ChatProvider>
-          <h1 className="text-3xl my-3 text-center">Chat Simples</h1>
+          <h1 className="text-3xl my-3 text-center">Chat</h1>
 
           <Chat />
         </ChatProvider>
